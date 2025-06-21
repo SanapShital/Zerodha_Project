@@ -12,7 +12,7 @@ function Footer() {
             ></img>
             <p>&copy; 2010 - 2025, Zerodha Broking Ltd. All rights reserved.</p>
           </div>
-          <div className="col">
+          <div className="col white-links-container">
             <p>Account</p>
             <a href="">Open demat account</a>
             <br />
@@ -31,7 +31,7 @@ function Footer() {
             <a href="">Referral program</a>
             <br />
           </div>
-          <div className="col">
+          <div className="col white-links-container">
             <p>Support</p>
             <a href="">Contact us</a>
             <br />
@@ -43,14 +43,14 @@ function Footer() {
             <br />
             <a href="">Bulletin</a>
             <br />
-            <a href="">Bulletin</a>
+            <a href="">Circular</a>
             <br />
             <a href="">Z-Connect blog</a>
             <br />
             <a href="">Downloads</a>
             <br />
           </div>
-          <div className="col">
+          <div className="col white-links-container">
             <p>Company</p>
             <a href="">About</a>
             <br />
@@ -67,7 +67,7 @@ function Footer() {
             <a href="">Open source</a>
             <br />
           </div>
-          <div className="col">
+          <div className="col white-links-container">
             <p>Quick links</p>
             <a href="">Upcoming IPOs</a>
             <br />
