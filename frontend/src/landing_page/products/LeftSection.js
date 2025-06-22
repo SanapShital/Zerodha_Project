@@ -1,44 +1,4 @@
-/*
-import React from "react";
 
-function LeftSection({
-  imageURL,
-  productName,
-  productDesription,
-  tryDemo,
-  LearnMore,
-  googlePlay,
-  AppStore,
-}) {
-  return (
-    <div className="container">
-      <div className="row g-4 align-items-center">
-        <div className="col-6 ">
-          <img src={imageURL} alt="Product" className="img-fluid" />
-        </div>
-        <div className="col-6 p-5 mt-5">
-          <h1>{productName}</h1>
-          <p>{productDesription}</p>
-          <div className="d-flex gap-4 mt-3">
-            <a href={tryDemo}>tryDemo</a>
-          <a href={LearnMore}>Learn More</a>
-          </div>
-          <div className="d-flex g-4 mt-4">
-          <a href={googlePlay}>
-            <img src="media/images/images/googlePlayBadge.svg" alt="Google Play" className="img-fluid" />
-          </a>
-          <a href={AppStore}>
-            <img src="media/images/images/appstoreBadge.svg"  alt="App Store" className="img-fluid" />
-          </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-export default LeftSection;
-*/
 
 import React from "react";
 
