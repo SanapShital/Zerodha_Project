@@ -33,3 +33,26 @@ code {
   font-size: 18px;
   font-weight: 500;
 }
+#supportHero{
+  background-color:rgb(56,126,209) ;
+  color: white;
+}
+#supportHero a{
+  color: white;
+  text-underline-offset: 10px;
+  font-weight: 400;
+  font-family:"Inter", sans-serif;;
+}
+#supportWrapper{
+display: flex;
+justify-content:space-between;
+margin:0 150px;
+}
+
+#supportHero input{
+  padding: 10px 50px;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+}
